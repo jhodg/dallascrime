@@ -130,6 +130,9 @@ textarea.form-control {
   font-size: 18px;
   text-align: left;
 }
+div#crimes.container{
+  margin-top: 20px;
+}
 /*table#crime-table.table {
   display: none;
 }*/
